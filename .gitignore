@@ -1,0 +1,25 @@
+# Local tooling
+/.agents/
+/.aws/
+/.codex/
+
+# Operating system files
+.DS_Store
+.AppleDouble
+._*
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.directory
+
+# Editor settings and temporary files
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# Local logs
+*.log
