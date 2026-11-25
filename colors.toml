@@ -7,7 +7,7 @@ muted = "#B7B5AC"
 background = "#FFFCF0"
 dark_background = "#f2efe4"
 darker_background = "#e5e2d8"
-lighter_background = "#E6E4D9"
+lighter_background = "#ECECEC"
 
 foreground = "#100F0F"
 dark_foreground = "#878580"
